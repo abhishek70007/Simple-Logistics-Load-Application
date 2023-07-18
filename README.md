@@ -18,7 +18,7 @@ The Simple Logistics Load Application is a logistics management system developed
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/simple-logistic-load-application.git
+   git clone https://github.com/abhishek70007/simple-logistic-load-application.git
    ```
 
 2. Install dependencies using Maven:
