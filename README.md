@@ -1,6 +1,6 @@
-# Simple Logistic Load Application
+# Simple Logistics Load Application
 
-The Simple Logistic Load Application is a logistics management system developed using Maven and Spring Boot. It provides a user-friendly interface and a set of APIs for managing and tracking logistic loads. The application's APIs can be tested using Postman, and all data posted through the APIs are stored in a PostgreSQL database.
+The Simple Logistics Load Application is a logistics management system developed using Maven and Spring Boot. It provides a user-friendly interface and a set of APIs for managing and tracking logistic loads. The application's APIs can be tested using Postman, and all data posted through the APIs are stored in a PostgreSQL database.
 
 ## Features
 
